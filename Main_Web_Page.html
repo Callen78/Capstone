@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Carl's Software Closet</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <h1>Carl Allen Jr.</h1>
+            <p>Software Engineer | Web Developer | AI Enthusiast</p>
+            <nav>
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="about" class="section">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>Hi! I'm a passionate software engineer with experience in building web applications and AI solutions.</p>
+        </div>
+    </section>
+
+    <section id="projects" class="section">
+        <div class="container">
+            <h2>Projects</h2>
+            <div class="project-grid">
+                <div class="project">
+                    <h3>Carl's Closet</h3>
+                    <p>Come check out my most valued clothing pieces, and items in my closet</p>
+                </div>
+             </div>
+        </div>
+    </section>
+
+    <section id="contact" class="section">
+        <div class="container">
+            <h2>Contact Me</h2>
+            <form>
+                <input type="text" placeholder="Your Name" required>
+                <input type="email" placeholder="Your Email" required>
+                <textarea placeholder="Your Message" required></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Your Name. All Rights Reserved.</p>
+    </footer>
+
+<!-- Back to Top Button -->
+<button id="backToTopBtn" title="Go to top">↑</button>
+
+<!-- Dark Mode Toggle -->
+<div class="toggle-container">
+  <label class="switch">
+    <input type="checkbox" id="darkModeToggle">
+    <span class="slider round"></span>
+  </label>
+  <span>Dark Mode</span>
+</div>
+
+<script>
+  // Back to Top Button
+  const backToTopBtn = document.getElementById("backToTopBtn");
+  window.onscroll = function() {
+    if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
+      backToTopBtn.style.display = "block";
+    } else {
+      backToTopBtn.style.display = "none";
+    }
+  };
+  backToTopBtn.onclick = function() {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
+  // Dark Mode Toggle
+  const toggle = document.getElementById("darkModeToggle");
+  toggle.addEventListener("change", function () {
+    document.body.classList.toggle("dark-mode");
+  });
+
+  // Contact Form Alert
+  const form = document.querySelector("form");
+  form.addEventListener("submit", function (e) {
+    e.preventDefault(); // Prevent form submission
+    alert("Thanks for your message! I’ll get back to you soon.");
+    form.reset(); // Clear form fields
+  });
+</script>
+
+
+</body>
+</html>
