@@ -1,0 +1,106 @@
+:root {
+    --color-1: rgb(103,102,75);
+    --color-2: rgb(139,138,101);
+    --color-3: rgb(241,238,229);
+    --color-4: rgb(255,255,255);
+  }
+  
+  body {
+    background: linear-gradient(90deg, var(--color-1) 0%, var(--color-1) 25%, var(--color-2) 25%, var(--color-2) 50%, var(--color-3) 50%, var(--color-3) 75%, var(--color-4) 75%, var(--color-4) 100%);
+  }:root {
+    --color-1: rgb(17,44,80);
+    --color-2: rgb(43,71,114);
+    --color-3: rgb(162,189,206);
+    --color-4: rgb(206,198,206);
+  }
+  
+  body {
+    background: linear-gradient(90deg, var(--color-1) 0%, var(--color-1) 25%, var(--color-2) 25%, var(--color-2) 50%, var(--color-3) 50%, var(--color-3) 75%, var(--color-4) 75%, var(--color-4) 100%);
+  }/* General Styling */
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f5f5f5;
+    color: #333;
+  }
+  
+  /* Header */
+  header {
+    background: #B21919;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /* Sections */
+  .section {
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  /* Projects */
+  .project-grid {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .project {
+    background: white;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+  }
+  
+  /* Contact Form */
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  input,
+  textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px;
+    border: none;
+    background: #B21919;
+    color: white;
+    cursor: pointer;
+  }
+  
+  /* Footer */
+  footer {
+    background: #B21919;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+  }
