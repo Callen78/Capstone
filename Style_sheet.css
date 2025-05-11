@@ -91,10 +91,26 @@
   button {
     padding: 10px;
     border: none;
-    background: #B21919;
+    background: #4CAF50;
     color: white;
     cursor: pointer;
   }
+  
+  button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #4CAF50;
+}
+
   
   /* Footer */
   footer {
