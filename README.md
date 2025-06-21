@@ -18,3 +18,5 @@ This degree journey has opened my eyes to the many roles in tech beyond just sit
 * I apply both established and innovative tools, skills, and methods to develop computing solutions that create value and meet the unique needs of various industries.
 * I approach software design with a strong focus on security, anticipating potential threats, identifying vulnerabilities, and implementing safeguards to protect data and ensure privacy.
 * [Course Outcomes Doc Can Be Found Here] ([Narratives/Course Outcomes.docx](https://github.com/Callen78/Capstone/blob/main/Narratives/Course%20Outcomes.docx))
+# Informal Code Review
+[Code Review] (https://youtu.be/bw6wR1nYp4s)
