@@ -17,4 +17,4 @@ This degree journey has opened my eyes to the many roles in tech beyond just sit
 * I design and assess computing solutions to address specific problems by applying algorithmic thinking and standard computer science practices, while carefully considering the trade-offs of different design choices.
 * I apply both established and innovative tools, skills, and methods to develop computing solutions that create value and meet the unique needs of various industries.
 * I approach software design with a strong focus on security, anticipating potential threats, identifying vulnerabilities, and implementing safeguards to protect data and ensure privacy.
-
+[Course Outcomes Doc Can Be Found Here] ([Narratives/Course Outcomes.docx](https://github.com/Callen78/Capstone/blob/main/Narratives/Course%20Outcomes.docx))
