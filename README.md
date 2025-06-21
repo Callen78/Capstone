@@ -1,3 +1,3 @@
 # Professional Self-Assessment
-##Starting From Scratch
+## Starting From Scratch
 When I first began my journey toward earning a bachelor’s degree in computer science, I had no prior experience with computers. Everything—from programming to foundational math and science—was completely new to me. I started from the ground up with basic courses, including Visual Basic programming, and even had to retake some computer science classes just to fully grasp the concepts. It wasn’t an easy start, but I was committed to learning. My interest in tech stemmed from an idea I had for an app—one that would combine social media with the ability to check out and reserve spots at different establishments. I figured, instead of paying someone to build it for me, why not take on the career path and learn to build it myself?
