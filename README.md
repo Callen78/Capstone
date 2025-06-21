@@ -12,9 +12,9 @@ Along the way, I also discovered new passions. One of my dream jobs is working i
 ## Looking Forward
 This degree journey has opened my eyes to the many roles in tech beyond just sitting behind a screen writing code. I’ve gained the technical skills and confidence to start thinking about project management, cloud architecture, and other leadership or strategic positions. Now that I have the foundation, I plan to pursue certifications in project management to complement my experience building and organizing software projects. Whether I go into cloud systems, data analytics, or build my own platform, I know the knowledge and determination I’ve developed through this degree will carry me forward.
 # Course Outcomes
-## I foster collaborative environments by using effective strategies that bring together diverse perspectives to support informed decision-making in computer science projects.
-## I create and deliver professional-level communication—whether written, spoken, or visual—that is clear, technically accurate, and tailored to fit the needs of different audiences and situations.
-## I design and assess computing solutions to address specific problems by applying algorithmic thinking and standard computer science practices, while carefully considering the trade-offs of different design choices.
-## I apply both established and innovative tools, skills, and methods to develop computing solutions that create value and meet the unique needs of various industries.
-## I approach software design with a strong focus on security, anticipating potential threats, identifying vulnerabilities, and implementing safeguards to protect data and ensure privacy.
+* I foster collaborative environments by using effective strategies that bring together diverse perspectives to support informed decision-making in computer science projects.
+* I create and deliver professional-level communication—whether written, spoken, or visual—that is clear, technically accurate, and tailored to fit the needs of different audiences and situations.
+* I design and assess computing solutions to address specific problems by applying algorithmic thinking and standard computer science practices, while carefully considering the trade-offs of different design choices.
+* I apply both established and innovative tools, skills, and methods to develop computing solutions that create value and meet the unique needs of various industries.
+* I approach software design with a strong focus on security, anticipating potential threats, identifying vulnerabilities, and implementing safeguards to protect data and ensure privacy.
 
