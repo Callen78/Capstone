@@ -9,8 +9,8 @@
         margin: 0;
         min-height: 100vh;
       
-        background-image:url('images/Me_pic.JPG');
-        background-size: 60% auto;
+        background-image:url('images/CarlsCloset_Logo.JPG');
+        background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
         background-attachment: fixed;
@@ -18,12 +18,14 @@
   
   /* Header */
   header {
-    background: #B21919;
-    color: white;
-    padding: 20px 0;
+    background: #080808;
+    padding: 10px 0;
     text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Open Sans', Arial, sans-serif;
   }
-  
+
+
   nav ul {
     list-style: none;
     padding: 0;
@@ -43,6 +45,7 @@
   .section {
     padding: 50px 20px;
     text-align: center;
+    color: rgb(255, 248, 248);
   }
   
   .container {
@@ -57,11 +60,6 @@
     gap: 20px;
   }
 
-  video{
-
-
-  }
-  
   .project {
     background: white;
     padding: 15px;
