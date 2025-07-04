@@ -1,2 +1,0 @@
-# Capstone
-Bachelor Degree Capstone
